@@ -10,7 +10,7 @@
 <link href="../style.css" rel="stylesheet" type="text/css">
 </head>
 
-<body bgcolor="#000000" text="#FFFFFF" link="#FF0000">
+<body bgcolor="#000000" text="#FFFFFF" link="#FF0000" vlink="#FF0000" alink="#990000">
 <div id="wrapper">
 <div class="banner"><!-- TemplateBeginEditable name="banner" -->  
   <div align="center"><img src="../photos/punkbanner.jpg" width="873" height="141"  alt=""/></div>
@@ -30,7 +30,7 @@
   </div>
 </div>
 <div class="content">
-  <div align="center"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
+  <!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
 </div>
 <div class="footer">
   <div align="center"><!-- TemplateBeginEditable name="footer" -->
