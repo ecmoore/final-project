@@ -10,26 +10,33 @@
 <link href="../style.css" rel="stylesheet" type="text/css">
 </head>
 
-<body>
+<body bgcolor="#000000" text="#FFFFFF" link="#FF0000">
 <div id="wrapper">
-<div class="banner"><!-- TemplateBeginEditable name="banner" --><img src="../photos/punkbanner.jpg" width="708" height="144"  alt=""/><!-- TemplateEndEditable -->
+<div class="banner"><!-- TemplateBeginEditable name="banner" -->  
+  <div align="center"><img src="../photos/punkbanner.jpg" width="873" height="141"  alt=""/></div>
+<!-- TemplateEndEditable -->
 </div>
 <div class="navigation">
   <div align="center">
-    <table width="200" border="1">
+    <table width="323" height="48" border="1">
       <tr>
-        <th scope="col"><a href="master-template.dwt">home</a></th>
-        <th scope="col"><a href="../1971-1975/index.html">1971-1975</a></th>
-        <th scope="col"><a href="../1976/index.html">1976</a></th>
-        <th scope="col"><a href="../1977/index.html">1977</a></th>
-        <th scope="col"><a href="../1978-1979/index.html">1978-1979</a></th>
+        <th width="49" scope="col"><a href="../index.html">Home</a></th>
+        <th width="77" scope="col"><a href="../1971-1975/index.html">1971-1975</a></th>
+        <th width="41" scope="col"><a href="../1976/index.html">1976</a></th>
+        <th width="44" scope="col"><a href="../1977/index.html">1977</a></th>
+        <th width="78" scope="col"><a href="../1978-1979/index.html">1978-1979</a></th>
         </tr>
     </table>
   </div>
 </div>
-<div class="content"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable -->
+<div class="content">
+  <div align="center"><!-- TemplateBeginEditable name="content" --><!-- TemplateEndEditable --></div>
 </div>
-<div class="footer"><!-- TemplateBeginEditable name="footer" --><img src="../photos/PUNK_banner.jpg.png" width="734" height="107"  alt=""/><!-- TemplateEndEditable -->
+<div class="footer">
+  <div align="center"><!-- TemplateBeginEditable name="footer" -->
+    <div align="center"><img src="../photos/PUNK_banner.jpg.png" width="875" height="106"  alt=""/></div>
+    <!-- TemplateEndEditable -->
+  </div>
 </div>
 
 
